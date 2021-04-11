@@ -14,7 +14,7 @@ I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or yo
 
 - Qualcomm Snapdragon Android Device.
 - Root permission.
-- Terminal Emulator (Termux for best compatibility)
+- Terminal Emulator (Termux for best compatibility).
 
 ## Setup (Using Termux)
 
@@ -22,8 +22,8 @@ I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or yo
 - Give Termux Root Permission.
 - Install Python: `pkg install python`.
 - Save `hideme.py` script to your Android device.
-- Using any Root explorer, navigate to: `/data/data/com.termux/files/usr/etc/bash.bashrc`
-- Add this line at the end: `alias hideme='python /path/to/script/hideme.py'`
+- Using any Root explorer, navigate to: `/data/data/com.termux/files/usr/etc/bash.bashrc`.
+- Add this line at the end: `alias hideme='python /path/to/script/hideme.py'`.
 - Restart Termux.
 
 ## Usage
