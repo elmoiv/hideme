@@ -1,6 +1,15 @@
 # hideme
 Protect your privacy and keep out anyone tracking you over WiFi networks.
 
+## Discalimer
+I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
+
+## Features
+
+- Randomizes MAC address.
+- Randomizes Hostname.
+- No reboot required.
+
 ## Requirements
 
 - Qualcomm Snapdragon Android Device.
@@ -19,5 +28,8 @@ Protect your privacy and keep out anyone tracking you over WiFi networks.
 
 ## Usage
 
-- Just type `hideme` on Termux.
+Just type `hideme` on Termux.
 
+## Note
+
+To revert to your original MAC, reboot your device.
