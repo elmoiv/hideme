@@ -1,7 +1,7 @@
 # hideme
 Protect your privacy and keep out anyone tracking you over WiFi networks.
 
-## Discalimer
+## Disclaimer
 I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
 
 ## Features
